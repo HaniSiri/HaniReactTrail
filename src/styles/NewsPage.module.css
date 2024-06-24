@@ -10,3 +10,7 @@
 .active-view-icon {
     border-radius: 0.25rem !important;
 }
+
+.text-color-pisa-blue {
+    color: var(--pisa-blue-500);
+}

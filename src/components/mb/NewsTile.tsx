@@ -1,5 +1,6 @@
 import React from 'react'
 import tilePick from "../../assets/Olympics-image-8.png";
+import styles from '../../styles/NewsPage.module.css';
 
 interface NewsTileProps {
     showImgTop: Boolean
@@ -13,7 +14,7 @@ const NewsTile = ({ showImgTop, showImgLeft }: NewsTileProps) => {
 
     return (<>
         <div className={showImgLeft ? 'flex flex-row' : 'flex flex-col'}>
-            <div className={!showImgTop && !showImgLeft ? 'hidden' : (showImgLeft ? '' : 'min-h-48')}><img className={showImgTop ? "img-fill-available rounded" : "rounded"} src={tilePick} alt="" /></div>
+            <div className={!showImgTop && !showImgLeft ? 'hidden' : (showImgLeft ? '' : 'min-h-48')}><img className={showImgTop ? `${styles['img-fill-available']} rounded` : "rounded"} src={tilePick} alt="" /></div>
             <div className={showImgLeft ? 'overflow-auto p-2' : 'p-2'}>
                 <div className='rounded-full size-fit bg-badge-neutral px-2 text-xs mr-2 uppercase font-semibold text-n-neutral-800'>News Articles</div>
                 <div className='uppercase font-semibold text-n-neutral-700 text-sm pt-2'>Luge</div>
