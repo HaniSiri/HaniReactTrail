@@ -1,0 +1,94 @@
+.border-primay-color {
+    border-color: var(--primary-green-color);
+}
+
+.secondary-color-bg {
+    background-color: #F9F8F3;
+}
+
+.bg-light-green {
+    background-color: rgba(204, 239, 224);
+}
+
+.button-background-dark {
+    background-color: #E6ECE6;
+}
+
+.tabs_bounce-in-right__Gykhj {
+    animation: tabs_bounce-in-right__Gykhj 1.5s ease-out forwards
+}
+
+@keyframes tabs_bounce-in-right__Gykhj {
+    0% {
+        opacity: 0;
+        transform: translateX(250px)
+    }
+
+    50% {
+        opacity: 1;
+        transform: translateX(-30px)
+    }
+
+    75% {
+        transform: translateX(5px)
+    }
+
+    to {
+        transform: translateX(0)
+    }
+}
+
+.tabs_bounce-in-left__9C_Ny {
+    animation: tabs_bounce-in-left__9C_Ny 1.5s ease-out forwards
+}
+
+@keyframes tabs_bounce-in-left__9C_Ny {
+    0% {
+        opacity: 0;
+        transform: translateX(-250px)
+    }
+
+    50% {
+        opacity: 1;
+        transform: translateX(30px)
+    }
+
+    75% {
+        transform: translateX(-5px)
+    }
+
+    to {
+        transform: translateX(0)
+    }
+}
+
+.tabs_fade-in-text__xInA9 {
+    animation: tabs_fade-in-text__xInA9 .8s linear forwards
+}
+
+@keyframes tabs_fade-in-text__xInA9 {
+    0% {
+        opacity: .5;
+        font-weight: 400
+    }
+
+    to {
+        opacity: 1;
+        font-weight: 700
+    }
+}
+
+.tabs_fade-out-text__N_wXI {
+    animation: tabs_fade-out-text__N_wXI .8s linear forwards
+}
+
+@keyframes tabs_fade-out-text__N_wXI {
+    0% {
+        opacity: 1
+    }
+
+    to {
+        opacity: .5;
+        display: none
+    }
+}

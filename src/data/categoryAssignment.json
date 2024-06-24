@@ -1,0 +1,61 @@
+{
+    "id": "all-products",
+    "name": "Full Product List",
+    "description": "Whether your goal is to manage your weight, nourish your fitness journey, address specific nutritional needs, or refine your skincare regimen, our range of products have you covered",
+    "subCategories": [
+        {
+            "id": "shakes",
+            "name": "Shakes",
+            "description": "Achieve and maintain weight goals, nourish your fitness journey, or fill nutritional gaps with a variety of meal replacement and protein shakes.",
+            "subCategories": [
+                {
+                    "id": "protein-boost",
+                    "name": "Protein Boost",
+                    "products": ["1234"]
+                },
+                {
+                    "id": "meal-replacement",
+                    "name": "Meal Replacement",
+                    "products": ["182K"]
+                },
+                {
+                    "id": "sports-nutrition",
+                    "name": "Sports Nutrition",
+                    "products": ["182K"]
+                }
+            ]
+        },
+        {
+            "id": "beverages-infusions",
+            "name": "Beverages & Infusions",
+            "description": "Choose from a selection of drinks, beverages and infusions, expertly formulated with aloe, caffeine, tea and herbal extracts, as well as key nutrients like protein, fibre, vitamins and minerals.",
+            "subCategories": [
+                {
+                    "id": "hydration",
+                    "name": "Hydration",
+                    "products": ["1234"]
+                },
+                {
+                    "id": "caffeine-boost",
+                    "name": "Caffeine Boost",
+                    "products": []
+                },
+                {
+                    "id": "fibre-boost",
+                    "name": "Fibre Boost",
+                    "products": []
+                },
+                {
+                    "id": "protein-boost-1",
+                    "name": "Protein Boost",
+                    "products": []
+                },
+                {
+                    "id": "sports-hydration",
+                    "name": "Sports Hydration",
+                    "products": []
+                }                
+            ]
+        }
+    ]
+}

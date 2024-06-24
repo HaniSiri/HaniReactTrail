@@ -1,0 +1,216 @@
+{
+    "1234": {
+        "sku": "1234",
+        "name": "Formula 1 Healthy Meal",
+        "shortDescription": "Our best-selling and delicious meal replacement shake.",
+        "tags": [
+            "Featured"
+        ],
+        "images": {
+            "tileLarge": [
+                "https://rachelclarkson.herbalife.com/dmassets/market-reusable-assets/emea/united-kingdom/images/canister/pc-4466-gb.png:tile-w405h566?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-f1-vc-emea.jpg:tile-w405h566?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-drinking-formula-1-shake.jpg:tile-w405h566?fmt=webp-alpha"
+            ],
+            "large": [
+                "https://rachelclarkson.herbalife.com/dmassets/market-reusable-assets/emea/united-kingdom/images/canister/pc-4466-gb.png:pdp-w875h783?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-f1-vc-emea.jpg:pdp-w875h783?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-drinking-formula-1-shake.jpg:pdp-w875h783?fmt=webp-alpha"
+            ],
+            "small": [
+                "https://rachelclarkson.herbalife.com/dmassets/market-reusable-assets/emea/united-kingdom/images/canister/pc-4466-gb.png:pdp-w100h120?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-f1-vc-emea.jpg:pdp-w100h120?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-drinking-formula-1-shake.jpg:pdp-w100h120?fmt=webp-alpha"
+            ]
+        },
+        "price": {
+            "currency": "£",
+            "value": 39.79,
+            "lowerunit": "100 g",
+            "lowerunitprice": "7.23"
+        },
+        "variationAttributes": {
+            "flavour": {
+                "name": "Flavour",
+                "variations": [
+                    "Vanilla Cream",
+                    "Banana Cream",
+                    "Cafe Latte",
+                    "Chocolate Orange",
+                    "Cookie Crunch",
+                    "Mint and Chocolate",
+                    "Raspberry and White Chocolate",
+                    "Smooth Chocolate",
+                    "Strawberry Delight",
+                    "Summer Berries"
+                ],
+                "swatchable": true
+            },
+            "size": {
+                "name": "Size",
+                "variations": [
+                    "550g",
+                    "7 x 26 g",
+                    "780 g"
+                ]
+            }
+        },
+        "details": [
+            {
+                "animationclass": "tabs_bounce-in-left__9C_Ny",
+                "section": "Overview",
+                "content": [
+                    "Whether you're looking to manage your weight, or you just want a convenient option for everyday balanced nutrition, Formula 1 Healthy Meal is the solution to give your body what it needs without sacrificing taste or convenience.*",
+                    "Made with 100 % vegan-sourced ingredients, Formula 1 Healthy Meal provides a balanced blend of key nutrients, including plant-based protein, carbohydrates, fibre, vitamins and minerals. Support your weight management and wellness goals with a shake that doesn’t fault on quality nutrition.",
+                    "Enjoy this shake as a nutritious alternative to breakfast, lunch or dinner. Formula 1 is designed to ensure you're getting the right balance of nutrients while keeping your calorie count in check.*",
+                    "Formula 1 Healthy Meal shake fits into your lifestyle exactly how you need it. With a variety of flavours, there is something to satisfy everyone's taste. If you’re looking for an easy-to-make, delicious, on-the-go option for weight management or everyday well-being, Formula 1 has you covered. Formula 1 Healthy Meal is also incredibly versatile. Customise your shake with extra protein products like Protein Drink Mix or Formula 3 Personalised Protein Powder, or add in your favourite fruits and vegetables for extra nutritious variety.**"
+                ],
+                "terms": [
+                    "*Formula 1 Healthy Meal is a meal replacement shake for a calorie-controlled diet. It provides the needed amount of nutrients in terms of vitamins & minerals, protein and fibre.",
+                    "**Nutritional values applicable only when prepared as instructed on the label."
+                ],
+                "image": "https://www.herbalife.com/assets/regional-reusable-assets/emea/images/prepared-product/pp-f1-vc-emea.jpg"
+            },
+            {
+                "animationclass": "tabs_bounce-in-right__Gykhj",
+                "section": "Features",
+                "content": [
+                    "Formula 1 Healthy Meal:",
+                    "Provides 18 g of high-quality protein per serving*",
+                    "Contains 25 key vitamins and minerals",
+                    "Is made with vegan-sourced ingredients",
+                    "Is gluten-free",
+                    "Has no artificial colours or flavours",
+                    "Contains sweetener from natural source",
+                    "Contains 21 servings"
+                ],
+                "terms": [
+                    "*When prepared with 250 ml of semi skimmed milk (1.5 % fat)."
+                ],
+                "image": "https://www.herbalife.com/assets/regional-reusable-assets/emea/images/lifestyle/li-woman-drinking-formula-1-shake.jpg"
+            },
+            {
+                "animationclass": "tabs_bounce-in-left__9C_Ny",
+                "section": "What's in it",
+                "ingredients": "Soy protein isolate, fructose, inulin, gluten-free oat fibre, soy oil, minerals mixture (calcium citrate, magnesium oxide, ferrous fumarate, sodium selenite, zinc oxide, manganese carbonate, chromium (III) chloride, potassium iodide, cupric citrate), potassium phosphate, emulsifier (soy lecithin), flaxseed powder, thickeners (xanthan gum, guar gum), natural flavouring, vitamins mixture (L-ascorbic acid (vit. C), DL-alpha-tocopheryl acetate (vit. E), nicotinamide (Niacin), retinyl acetate (vit. A), D-biotin (Biotin), calcium D-pantothenate (Pantothenic acid), cholecalciferol (vit. D), pteroylmonoglutamic acid (Folic acid), phylloquinone (vit. K), pyridoxine hydrochloride (vit. B6), thiamin hydrochloride (vit. B1), cyanocobalamin (vit. B12), riboflavin (vit. B2)), sodium chloride, colour (beta-carotene), sweetener (steviol glycosides), papaya fruit powder, parsley herb powder, blueberry fruit powder, pomegranate fruit powder and anti-caking agent (silicon dioxide). Sweetener from natural source.",
+                "allergyinfo": "CONTAINS SOY AND OAT",
+                "downloadlink": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/product-label-pdf/en-gb/pl-pdf-gb-4466.pdf",
+                "image": "https://www.herbalife.com/assets/market-reusable-assets/emea/united-kingdom/images/nutritional-facts/pn-4466-gb.png"
+            },
+            {
+                "animationclass": "tabs_bounce-in-right__Gykhj",
+                "section": "How to use",
+                "content": [
+                    "Enjoy a Formula 1 Healthy Meal shake every day as a nutritious meal. Gently shake the canister prior to each use as content may settle. To prepare a delicious shake, mix two scoops of powder (26 g) with 250 ml of cold, semi-skimmed milk (1.5 % fat). For a vegan-friendly and naturally lactose-free shake, mix with 250 ml of fortified soy beverage. Looking for a healthy meal without using milk or soy beverage? Try Formula 1 with Vegan Protein Drink Mix and water. Formula 1 Healthy Meal is enjoyed best when prepared with ice. Add 250 ml of your choice of milk in a blender, add 3 – 4 ice cubes and two scoops of Formula 1 Healthy Meal shake and blend until smooth. Enjoy this product within a balanced and varied diet, as part of a healthy, active lifestyle.",
+                    "Store with lid closed in a cool, dry place.",
+                    "For weight control: Substituting two of the main daily meals of an energy restricted diet with meal replacements contributes to weight loss. Replace two meals per day with a delicious Formula 1 drink and take a balanced meal.",
+                    "For balanced nutrition support and weight maintenance: Substituting one of the main daily meals of an energy restricted diet with a meal replacement contributes to the maintenance of weight after weight loss. Replace one meal per day with a delicious Formula 1 drink and eat two balanced meals.",
+                    "This product is intended for use as part of an energy restricted diet and with other foodstuffs, in conjunction with regular physical activity. It is important to maintain adequate fluid intake. It is important to follow these directions as indicated."
+                ]
+            }
+        ]
+    },
+    "182K": {
+        "sku": "182K",
+        "name": "Instant Herbal Beverage with Tea Extracts",
+        "shortDescription": "A refreshing, low-calorie instant beverage to enjoy throughout the day.",
+        "tags": [
+            "Limited Edition"
+        ],
+        "images": {
+            "tileLarge": [
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/product-canister/pc-182k-gb-ie-mt.png:tile-w405h566?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-ihbte-r-emea.jpg:tile-w405h566?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-holding-tea.jpg:tile-w405h566?fmt=webp-alpha"
+            ],
+            "large": [
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/product-canister/pc-182k-gb-ie-mt.png:pdp-w875h783?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-ihbte-r-emea.jpg:pdp-w875h783?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-holding-tea.jpg:pdp-w875h783?fmt=webp-alpha"
+            ],
+            "small": [
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/product-canister/pc-182k-gb-ie-mt.png:pdp-w100h120?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/prepared-product/pp-ihbte-r-emea.jpg:pdp-w100h120?fmt=webp-alpha",
+                "https://rachelclarkson.herbalife.com/dmassets/regional-reusable-assets/emea/images/lifestyle/li-woman-holding-tea.jpg:pdp-w100h120?fmt=webp-alpha"
+            ]
+        },
+        "price": {
+            "currency": "£",
+            "value": 28.59,
+            "lowerunit": "100 g",
+            "lowerunitprice": "56.06"
+        },
+        "variationAttributes": {
+            "flavour": {
+                "name": "Flavour",
+                "variations": [
+                    "Raspberry",
+                    "Lemon",
+                    "Original",
+                    "Peach"
+                ],
+                "swatchable": true
+            },
+            "size": {
+                "name": "Size",
+                "variations": [
+                    "51g"
+                ]
+            }
+        },
+        "details": [
+            {
+                "animationclass": "tabs_bounce-in-left__9C_Ny",
+                "section": "Overview",
+                "content": [
+                    "Whether you're looking to manage your weight, or you just want a convenient option for everyday balanced nutrition, Formula 1 Healthy Meal is the solution to give your body what it needs without sacrificing taste or convenience.*",
+                    "Made with 100 % vegan-sourced ingredients, Formula 1 Healthy Meal provides a balanced blend of key nutrients, including plant-based protein, carbohydrates, fibre, vitamins and minerals. Support your weight management and wellness goals with a shake that doesn’t fault on quality nutrition.",
+                    "Enjoy this shake as a nutritious alternative to breakfast, lunch or dinner. Formula 1 is designed to ensure you're getting the right balance of nutrients while keeping your calorie count in check.*",
+                    "Formula 1 Healthy Meal shake fits into your lifestyle exactly how you need it. With a variety of flavours, there is something to satisfy everyone's taste. If you’re looking for an easy-to-make, delicious, on-the-go option for weight management or everyday well-being, Formula 1 has you covered. Formula 1 Healthy Meal is also incredibly versatile. Customise your shake with extra protein products like Protein Drink Mix or Formula 3 Personalised Protein Powder, or add in your favourite fruits and vegetables for extra nutritious variety.**"
+                ],
+                "terms": [
+                    "*Formula 1 Healthy Meal is a meal replacement shake for a calorie-controlled diet. It provides the needed amount of nutrients in terms of vitamins & minerals, protein and fibre.",
+                    "**Nutritional values applicable only when prepared as instructed on the label."
+                ],
+                "image": "https://www.herbalife.com/assets/regional-reusable-assets/emea/images/prepared-product/pp-ihbte-r-emea.jpg"
+            },
+            {
+                "animationclass": "tabs_bounce-in-right__Gykhj",
+                "section": "Features",
+                "content": [
+                    "Formula 1 Healthy Meal:",
+                    "Provides 18 g of high-quality protein per serving*",
+                    "Contains 25 key vitamins and minerals",
+                    "Is made with vegan-sourced ingredients",
+                    "Is gluten-free",
+                    "Has no artificial colours or flavours",
+                    "Contains sweetener from natural source",
+                    "Contains 21 servings"
+                ],
+                "terms": [
+                    "*When prepared with 250 ml of semi skimmed milk (1.5 % fat)."
+                ],
+                "image": "https://www.herbalife.com/assets/regional-reusable-assets/emea/images/lifestyle/li-woman-holding-tea.jpg"
+            },
+            {
+                "animationclass": "tabs_bounce-in-left__9C_Ny",
+                "section": "What's in it",
+                "ingredients": "Soy protein isolate, fructose, inulin, gluten-free oat fibre, soy oil, minerals mixture (calcium citrate, magnesium oxide, ferrous fumarate, sodium selenite, zinc oxide, manganese carbonate, chromium (III) chloride, potassium iodide, cupric citrate), potassium phosphate, emulsifier (soy lecithin), flaxseed powder, thickeners (xanthan gum, guar gum), natural flavouring, vitamins mixture (L-ascorbic acid (vit. C), DL-alpha-tocopheryl acetate (vit. E), nicotinamide (Niacin), retinyl acetate (vit. A), D-biotin (Biotin), calcium D-pantothenate (Pantothenic acid), cholecalciferol (vit. D), pteroylmonoglutamic acid (Folic acid), phylloquinone (vit. K), pyridoxine hydrochloride (vit. B6), thiamin hydrochloride (vit. B1), cyanocobalamin (vit. B12), riboflavin (vit. B2)), sodium chloride, colour (beta-carotene), sweetener (steviol glycosides), papaya fruit powder, parsley herb powder, blueberry fruit powder, pomegranate fruit powder and anti-caking agent (silicon dioxide). Sweetener from natural source.",
+                "allergyinfo": "CONTAINS SOY AND OAT",
+                "downloadlink": "https://www.herbalife.com/assets/regional-reusable-assets/workflow/fusion/pdp/product-label-pdf/en-gb/pl-pdf-gb-4466.pdf",
+                "image": "https://www.herbalife.com/assets/regional-reusable-assets/emea/images/nutritional-fact/pn-182k-gb.jpg"
+            },
+            {
+                "animationclass": "tabs_bounce-in-right__Gykhj",
+                "section": "How to use",
+                "content": [
+                    "Enjoy a Formula 1 Healthy Meal shake every day as a nutritious meal. Gently shake the canister prior to each use as content may settle. To prepare a delicious shake, mix two scoops of powder (26 g) with 250 ml of cold, semi-skimmed milk (1.5 % fat). For a vegan-friendly and naturally lactose-free shake, mix with 250 ml of fortified soy beverage. Looking for a healthy meal without using milk or soy beverage? Try Formula 1 with Vegan Protein Drink Mix and water. Formula 1 Healthy Meal is enjoyed best when prepared with ice. Add 250 ml of your choice of milk in a blender, add 3 – 4 ice cubes and two scoops of Formula 1 Healthy Meal shake and blend until smooth. Enjoy this product within a balanced and varied diet, as part of a healthy, active lifestyle.",
+                    "Store with lid closed in a cool, dry place.",
+                    "For weight control: Substituting two of the main daily meals of an energy restricted diet with meal replacements contributes to weight loss. Replace two meals per day with a delicious Formula 1 drink and take a balanced meal.",
+                    "For balanced nutrition support and weight maintenance: Substituting one of the main daily meals of an energy restricted diet with a meal replacement contributes to the maintenance of weight after weight loss. Replace one meal per day with a delicious Formula 1 drink and eat two balanced meals.",
+                    "This product is intended for use as part of an energy restricted diet and with other foodstuffs, in conjunction with regular physical activity. It is important to maintain adequate fluid intake. It is important to follow these directions as indicated."
+                ]
+            }
+        ]
+    }
+}

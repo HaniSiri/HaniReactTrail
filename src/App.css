@@ -1,0 +1,57 @@
+:root {
+  --primary-green-color: #266431;
+  --secondary-green-color: #224945;
+  --text-gray-color: #74736e;
+  --border-gray-color: #bfbdb6;
+  --background-gray-color: #f9f8f4;
+  --black-color: #000;
+}
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.transform180 {
+  transform: rotate(180deg);
+}
+
+.primary-color {
+  color: var(--primary-green-color);
+}
+
+.gray-text {
+  color: var(--text-gray-color);
+}
+
+.bg-primary-color {
+  background-color: var(--primary-green-color);
+}
+
+.fit-content {
+  width: fit-content;
+}

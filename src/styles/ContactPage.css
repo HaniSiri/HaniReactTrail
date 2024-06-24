@@ -1,0 +1,79 @@
+.main-container {
+    color: rgb(34 73 69);
+}
+
+.contact-info-form-container {
+    padding: 0 6%;
+}
+
+.contact-info-container {
+    color: rgb(85 84 79);
+}
+
+.form-field {
+    min-height: 48px;
+}
+
+.form-field:hover {
+    border-color: rgb(38, 100, 49);
+}
+
+.textarea-field {
+    min-height: 8rem;
+}
+
+.textarea-field:hover {
+    border-color: rgb(38, 100, 49);
+}
+
+
+.disclaimer {
+    font-size: x-small;
+    font-weight: 500;
+}
+
+.contact-submit {
+    width: -webkit-fill-available;
+}
+
+.icon-size {
+    height: 1.25rem;
+    width: max-content;
+}
+
+.dropdown-options {
+    height: 40px;
+}
+
+.dropdown-options.icon-size {
+    padding-left: 1rem;
+}
+
+.dropdown-options:hover {
+    background-color: #F9F8F3;
+}
+
+.bg-selected {
+    background-color: #F9F8F3;
+}
+
+textarea:focus,
+input[type="text"]:focus {   
+  border-color: #256430;
+  outline: 0 none;
+}
+
+@media (min-width: 1140px) {
+    .contact-info-container {
+        padding: 1.5rem;
+        border-width: thin;
+    }
+    
+    .form-buttons {
+        display: flex;
+    }
+
+    .contact-submit {
+        width: 15rem;
+    }
+}

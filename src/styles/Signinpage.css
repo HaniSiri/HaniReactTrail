@@ -1,0 +1,41 @@
+.section-seperator {
+    background-color: var(--border-gray-color);
+}
+
+.color-black {
+    color: var(--black-color);
+}
+
+.form-container .input-frame {
+    font-size: 1.125rem;
+    padding: 0px 16px;
+    min-height: 56px;
+    width: 100%;
+    border: 1px solid rgb(116, 115, 110);
+    border-radius: 0.1875rem;
+    background: rgb(255, 255, 255);
+    color: rgb(13, 19, 32);
+    padding: 0px 12px;
+    font-size: 1rem;
+    line-height: 1.5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 48px;
+    font-family: Herbalife-Walsheim-GT-Regular, sans-serif;
+    font-style: normal;
+}
+
+.form-container .input-frame:hover,
+.form-container .input-frame:active,
+.form-container .input-frame:focus-visible {
+    border: 1px solid rgb(38, 100, 49) !important;
+    outline: rgb(38, 100, 49) solid 1px !important;
+    outline-offset: 0px !important;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    text-align: left;
+}

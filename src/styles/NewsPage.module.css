@@ -1,0 +1,12 @@
+.img-fill-available {
+    width: -webkit-fill-available;
+}
+
+/* ToggleSwitch */
+.toggle {
+    background-color: theme('colors.n-neutral-200');
+}
+
+.active-view-icon {
+    border-radius: 0.25rem !important;
+}

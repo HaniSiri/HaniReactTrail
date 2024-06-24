@@ -1,0 +1,96 @@
+.clp-container {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sort-select {
+    width: 100%;
+}
+
+.text-primary-color {
+    color: rgb(38 100 49);
+}
+
+.border-primary-color {
+    border-color: rgb(38 100 49)
+}
+
+.hover-border:hover {
+    border-color: rgb(38 100 49);
+    border-width: 1px;
+}
+
+.background-primary-color {
+    background-color: rgb(38 100 49);
+}
+
+.plp-swatches {
+    height: 24px;
+    width: 24px;
+}
+
+.fs-1-1 {
+    font-size: 1.1rem;
+}
+
+.flavor-badge {
+    font-size: 0.9rem;
+}
+
+.price-label {
+    font-size: x-small;
+}
+
+.category-navigation {
+    overflow: auto;
+}
+
+.category-navigation .other-tab {
+    border-bottom-width: 1px;
+}
+
+.category-navigation .selected-tab {
+    border-bottom-width: 3px;
+    font-weight: bold;
+}
+
+.tags {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.mouseIn {
+    animation: 0.5s ease-in key;
+}
+
+.mouseOut {
+    animation: 0.8s ease-out key1;
+}
+
+@keyframes key {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes key1 {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media (min-width: 639px) {
+    .tags {
+        font-size: 16px;
+        line-height: 24px;
+    }
+}

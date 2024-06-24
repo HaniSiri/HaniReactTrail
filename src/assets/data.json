@@ -1,0 +1,370 @@
+{
+    "i18nConfigList": {
+        "items": [
+            {
+                "includesProductLabel": "Includes",
+                "moreProductsLabel": "more products",
+                "addToBagButton": "Add to Bag",
+                "learnMoreButton": "Learn More",
+                "featuredProductsAddButton": "Add",
+                "priceInclusiveLabel": " Price",
+                "pricesVaryDependingDeliveryLabel": "Final price including delivery costs will be displayed on checkout page. Delivery costs will vary depending on delivery address",
+                "productsNotAvailableLabel": "Products not available",
+                "followingProductsNotAvailableLabel": "Following products not available",
+                "followingProductsAreAvailableLabel": "Following products are available",
+                "viewBundleDetailsLabel": "View Bundle Details",
+                "myFavoriteProductsLabel": "My featured products",
+                "mergedCartErrorNotice": "Merged Cart Error",
+                "use2FactorForPersonalDetailsNotice": "You have successfully added two-factor verification to your account. From now on, you'll use this when updating your personal details.",
+                "addButtonLabel": "Add",
+                "errorLabel": "Error",
+                "successLabel": "Success!"
+            }
+        ]
+    },
+    "distributorHomepageList": {
+        "items": [
+            {
+                "bestSellersTitle": "Best Selling Products",
+                "bestSellersDescription": {
+                    "html": "<p>Best Sellers Description</p>\\n"
+                },
+                "bestSellersImage": {
+                    "altText": "Cover Image 1",
+                    "ariaLabel": "Cover Image 1",
+                    "desktopImage": {
+                        "_path": "/content/dam/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg"
+                    },
+                    "tabletImage": {
+                        "_path": "/content/dam/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg"
+                    },
+                    "mobileImage": {
+                        "_path": "/content/dam/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/images/li-green-tea-plantation-1314122488.jpg"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "facebookSocialIcon": [
+                    {
+                        "altText": "Icono de Facebook",
+                        "ariaLabel": "Icono de Facebook",
+                        "desktopImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/FB-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/FB-icon-512w.png"
+                        },
+                        "tabletImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/FB-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/FB-icon-512w.png"
+                        },
+                        "mobileImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/FB-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/FB-icon-512w.png"
+                        },
+                        "thumbnailAltText": null,
+                        "thumbnailAriaLabelText": null
+                    }
+                ],
+                "twitterSocialIcon": [
+                    {
+                        "altText": "Enlace a Twitter",
+                        "ariaLabel": "Enlace a Twitter",
+                        "desktopImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Icon-social-X.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Icon-social-X.png"
+                        },
+                        "tabletImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Icon-social-X.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Icon-social-X.png"
+                        },
+                        "mobileImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Icon-social-X.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Icon-social-X.png"
+                        },
+                        "thumbnailAltText": "Enlace a Twitter",
+                        "thumbnailAriaLabelText": "Enlace a Twitter"
+                    }
+                ],
+                "instagramSocialIcon": [
+                    {
+                        "altText": "Enlace de Instagram",
+                        "ariaLabel": "Enlace de Instagram",
+                        "desktopImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Instagram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Instagram-icon-512w.png"
+                        },
+                        "tabletImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Instagram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Instagram-icon-512w.png"
+                        },
+                        "mobileImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Instagram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Instagram-icon-512w.png"
+                        },
+                        "thumbnailAltText": "Enlace de Instagram",
+                        "thumbnailAriaLabelText": "Enlace de Instagram"
+                    }
+                ],
+                "whatsappSocialIcon": [
+                    {
+                        "altText": "Icono de WhatsApp",
+                        "ariaLabel": "Icono de WhatsApp",
+                        "desktopImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Whatsapp-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Whatsapp-icon-512w.png"
+                        },
+                        "tabletImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Whatsapp-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Whatsapp-icon-512w.png"
+                        },
+                        "mobileImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Whatsapp-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Whatsapp-icon-512w.png"
+                        },
+                        "thumbnailAltText": null,
+                        "thumbnailAriaLabelText": null
+                    }
+                ],
+                "telegramSocialIcon": [
+                    {
+                        "altText": "Icono de Telegram",
+                        "ariaLabel": "Icono de Telegram",
+                        "desktopImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Telegram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Telegram-icon-512w.png"
+                        },
+                        "tabletImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Telegram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Telegram-icon-512w.png"
+                        },
+                        "mobileImage": {
+                            "_path": "/content/dam/global-reusable-assets/icons/Telegram-icon-512w.png",
+                            "_publishUrl": "https://www.herbalife.com/assets/global-reusable-assets/icons/Telegram-icon-512w.png"
+                        },
+                        "thumbnailAltText": null,
+                        "thumbnailAriaLabelText": null
+                    }
+                ],
+                "heroBannerDistributorTitle": "Herbalife Independent Distributor",
+                "ariaHeroBannerDistributorTitle": "Herbalife Independent Distributor",
+                "heroBannerButtonText": "Get In Touch",
+                "ariaHeroBannerButtonText": "Get In Touch",
+                "heroBannerButtonUrl": "#contact-me",
+                "featuredProductsTitle": "Featured Products",
+                "ariaFeaturedProductsTitle": "Featured Products",
+                "dsBannerBackgroundAvatar": {
+                    "altText": "banner-background-avatar",
+                    "ariaLabel": "banner-background-avatar",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "tabletImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "mobileImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "thumbnailImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "heroBannerDefaultImage": {
+                    "altText": "Distributor default image",
+                    "ariaLabel": "Distributor default image",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/profile-images/bm-img-placeholder-green-grass.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/profile-images/bm-img-placeholder-green-grass.png"
+                    },
+                    "tabletImage": {
+                        "_path": "/content/dam/ds-admin/profile-images/bm-img-placeholder-green-grass.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/profile-images/bm-img-placeholder-green-grass.png"
+                    },
+                    "mobileImage": {
+                        "_path": "/content/dam/ds-admin/profile-images/bm-img-placeholder-green-grass.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/profile-images/bm-img-placeholder-green-grass.png"
+                    },
+                    "thumbnailImage": {
+                        "_path": "/content/dam/ds-admin/profile-images/bm-img-placeholder-green-grass.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/profile-images/bm-img-placeholder-green-grass.png"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "relatedContentSlides": [
+                    {
+                        "__typename": "CarouselSlideModel",
+                        "title": "Berry berry shake ",
+                        "ariaTitle": "Berry berry shake ",
+                        "subtitle": null,
+                        "ariaSubtitle": null,
+                        "description": {
+                            "html": null
+                        },
+                        "ariaDescription": null,
+                        "buttonText": "Learn more",
+                        "ariaButtonText": "Learn more",
+                        "buttonUrl": "#learn-more",
+                        "addFindDistributorButton": null,
+                        "image": null,
+                        "video": null
+                    },
+                    {
+                        "__typename": "CarouselSlideModel",
+                        "title": "seven steps:  exercise motivation",
+                        "ariaTitle": "seven steps:  exercise motivation",
+                        "subtitle": null,
+                        "ariaSubtitle": null,
+                        "description": {
+                            "html": null
+                        },
+                        "ariaDescription": null,
+                        "buttonText": "Learn more",
+                        "ariaButtonText": "Learn more",
+                        "buttonUrl": "#learn-more",
+                        "addFindDistributorButton": null,
+                        "image": null,
+                        "video": null
+                    },
+                    {
+                        "__typename": "CarouselSlideModel",
+                        "title": "Reach your healthy weight",
+                        "ariaTitle": "Reach your healthy weight",
+                        "subtitle": null,
+                        "ariaSubtitle": null,
+                        "description": {
+                            "html": "<p>No matter your weight goals, we have the nutritional products, tools and support to help you succeed and build healthy habits.</p>"
+                        },
+                        "ariaDescription": "No matter your weight goals, we have the nutritional products, tools and support to help you succeed and build healthy habits.",
+                        "buttonText": "Learn More",
+                        "ariaButtonText": "Learn More",
+                        "buttonUrl": "#learn-more",
+                        "addFindDistributorButton": null,
+                        "image": null,
+                        "video": null
+                    }
+                ],
+                "slideCarousel": [],
+                "featuredBundlesTitle": "Featured bundles",
+                "ariaFeaturedBundlesTitle": "Featured bundles",
+                "viewAllBundlesButtonText": "View All Bundles",
+                "ariaViewAllBundlesButtonText": "View All Bundles",
+                "featuredBundlesShortDescription": {
+                    "html": "<p>Our high-quality, science-based products don’t stand on their own. They come with the support of Herbalife Nutrition Independent Distributors. Our Distributors will help you get started with better nutritional choices and will guide you along the way to continued success.</p>\\n"
+                },
+                "viewAllBundlesButtonUrl": "/content/dam/hn-one/en-gb/pages/distributor-homepage/links/link",
+                "getBundleButton": "Get Bundle for",
+                "additionalProductsLabel": "Additional Products",
+                "discoverYourselfXf": {
+                    "_path": "/content/experience-fragments/hn-one/en-gb/ds-homepage/master"
+                },
+                "tabularComponentXf": {
+                    "_path": "/content/experience-fragments/hn-one/en-gb/ds-admin-homepage-vertical/master"
+                },
+                "takeTheQuizLine1Label": "Start your wellness journey today!",
+                "takeTheQuizLine2Label": "Achieve your unique goals by signing up for your wellness profile",
+                "takeTheQuizLine3Label": "Some short questions will help tell me about what you want to achieve, so we can work together in helping you succeed!",
+                "takeTheQuizCtaButton": "Take the Quiz",
+                "takeTheQuizImage": {
+                    "altText": "banner-background-avatar",
+                    "ariaLabel": "banner-background-avatar",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "tickIcon": {
+                    "_path": "/content/dam/hn-one/favicon.ico",
+                    "_publishUrl": "https://www.herbalife.com/assets/hn-one/favicon.ico"
+                },
+                "bannerHeadline": "I'm {dsName} and I'll help you reach your goals",
+                "sandbarText": "Herbalife Independent Distributor",
+                "locationIcon": {
+                    "_path": "/content/dam/hn-one/en-gb/icons-image-fragments/location_icon.png",
+                    "_publishUrl": "https://www.herbalife.com/assets/hn-one/en-gb/icons-image-fragments/location_icon.png"
+                },
+                "getInTouchButton": "Get In Touch",
+                "profilePictureFallbackImage": {
+                    "altText": "Fallback profile image",
+                    "ariaLabel": "Fallback profile image",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/profile-images/bm-img-placeholder-green-grass.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/profile-images/bm-img-placeholder-green-grass.png"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "bannerFallbackImage": {
+                    "altText": "banner-background-avatar",
+                    "ariaLabel": "banner-background-avatar",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "quizResults": [
+                    {
+                        "pathKey": "/",
+                        "greetingText1": "Congrats!",
+                        "greetingText2": "Your results are in.",
+                        "pathTitle": "You're A Weight Loss Warrior",
+                        "congratulationsMessage": "Congratulations!",
+                        "description": "Work Permit Card",
+                        "retakeQuizLabel": "Retake Quiz",
+                        "colorTheme": "Select color",
+                        "primaryImage": {
+                            "altText": "banner-background-avatar",
+                            "ariaLabel": "banner-background-avatar",
+                            "desktopImage": {
+                                "_path": "/content/dam/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg",
+                                "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/lifesyle-images/li-man-woman-kitchen-lifestyle-bundle-1456893756.jpg"
+                            },
+                            "thumbnailAltText": null,
+                            "thumbnailAriaLabelText": null
+                        },
+                        "secondaryImage": null,
+                        "caloriesPerDayLabel": null,
+                        "proteinPerDayLabel": null,
+                        "currentTargetLabel": null,
+                        "recommendationDescription": null,
+                        "contentSuggestionsXF": null,
+                        "productRecommendationsTitle": null,
+                        "productRecommendationsSkus": null,
+                        "factCarouselTitle": null,
+                        "wellnessFact": []
+                    }
+                ],
+                "goToBundlePDPButton": "Yes, Go to Bundles",
+                "addToBagForButton": "Add to Bag for ",
+                "discardUpdatesLabel": "Discard Updates",
+                "reviewAllBundlesLaterLabel": "You can review all bundles in your bag later.",
+                "productDoesntHaveFlavorOptionsNotice": "This product doesn't have flavor options.",
+                "backToProductInfoLabel": "Back to Product Info",
+                "dsHomePageMetaTitle": null,
+                "dsHomePageMetaDescription": null,
+                "defaultCouponImage": {
+                    "altText": "coupon",
+                    "ariaLabel": "coupon",
+                    "desktopImage": {
+                        "_path": "/content/dam/ds-admin/global-reusable-assets/404-error-and-iconography/ic-shopping-tag-icon.png",
+                        "_publishUrl": "https://www.herbalife.com/assets/ds-admin/global-reusable-assets/404-error-and-iconography/ic-shopping-tag-icon.png"
+                    },
+                    "thumbnailAltText": null,
+                    "thumbnailAriaLabelText": null
+                },
+                "couponCodeLabel": "Coupon Code"
+            }
+        ]
+    }
+}

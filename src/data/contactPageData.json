@@ -1,0 +1,75 @@
+{
+    "contactPersonBannerDetails": {
+        "intro": "I’m Rachel Clarkson"
+    },
+    "contactInfo": {
+        "name": "Rachel Clarkson",
+        "title": "Herbalife Independent Distributor",
+        "phone": "+44 7979 636414",
+        "email": "mrsclarkson@mattfiddes.com",
+        "address": {
+            "name": "Rachel Clarkson",
+            "line1": "6 Waterloo walk",
+            "city": "Witney",
+            "zip": "OX290AG",
+            "country": "United Kingdom"
+        }
+    },
+    "contactDistributorForm": {
+        "title": "Contact Distributor",
+        "instruction": "Please complete the form below and I will get back to you within five business days.",
+        "disclaimer": "By submitting this form, you are directing Herbalife to share your information with your designated Herbalife Distributor. For information on the data practices of Herbalife or your Distributor, see the Herbalife Privacy Policy and Distributor Privacy Policy.",
+        "fields": {
+            "email": {
+                "label": "Email Address",
+                "placeholder": "Email Address",
+                "required": true,
+                "class": "fullwidth"
+            },
+            "firstName": {
+                "label": "First Name",
+                "placeholder": "First Name",
+                "required": true,
+                "class": "half"
+            },
+            "lastName": {
+                "label": "Last Name",
+                "placeholder": "Last Name",
+                "required": true,
+                "class": "half"
+            },
+            "phone": {
+                "label": "Phone Number",
+                "placeholder": "XXXXXXXXXX",
+                "required": true,
+                "class": "phone"
+            },
+            "phoneCode": {
+                "label": "Phone Code",
+                "placeholder": "Phone Code",
+                "required": true,
+                "class": "phone",
+                "options": [
+                    {
+                        "country": "United Kingdom",
+                        "code": "+44"
+                    },
+                    {
+                        "country": "India",
+                        "code": "+91"
+                    },
+                    {
+                        "country": "United State",
+                        "code": "+1"
+                    }
+                ]
+            },
+            "message": {
+                "label": "Your Message",
+                "placeholder": "Let me know your thoughts!",
+                "required": true,
+                "class": "textbox"
+            }
+        }
+    }
+}

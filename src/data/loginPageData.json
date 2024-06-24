@@ -1,0 +1,25 @@
+{
+    "content": {
+        "title": "Member Benefits",
+        "content": "The key to unlocking success lies in the power of personal connection. That's why by combining our products with the know-how and support of our Herbalife Independent Distributors, we have a proven history of delivering results."
+    },
+    "form": {
+        "email": {
+            "label": "Email",
+            "placeholder": "Email",
+            "required": true,
+            "errorMessages": {
+                "missing": "All required fields (marked with *) must be filled out to continue.",
+                "invald": "Please enter a valid email"
+            }
+        },
+        "password": {
+            "label": "Password",
+            "placeholder": "Password",
+            "required": true,
+            "errorMessages": {
+                "missing": "Please enter a password."
+            }
+        }
+    }
+}

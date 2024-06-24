@@ -1,0 +1,359 @@
+.primary-text-color {
+    color: var(--primary-green-color);
+}
+
+.secondary-text-color {
+    color: var(--secondary-green-color);
+}
+
+.app-container {
+    color: var(--primary-green-color);
+    font-family: sans-serif;
+}
+
+.header-logo {
+    max-height: 30px;
+}
+
+.app-container a.no-underline {
+    color: var(--primary-green-color);
+    text-decoration: none;
+}
+
+.header-container,
+.footer-container {
+    padding-right: 4.26%;
+    padding-left: 4.26%;
+}
+
+.navitems-container {
+    grid-gap: 20px;
+}
+
+.header-nav-item:hover {
+    font-weight: 700;
+}
+
+.header-nav-item_active a {
+    font-weight: 700 !important;
+}
+
+.header-nav-link {
+    color: var(--primary-green-color);
+    text-decoration: none;
+    white-space: nowrap;
+    padding-top: 24px;
+}
+
+.sub-nav-container {
+    padding: 3rem 19rem;
+    background-color: var(--background-gray-color);
+    z-index: 10000;
+    height: auto;
+}
+
+.sub-nav-item {
+    padding: 0.5rem;
+}
+
+.sub-nav-link {
+    color: var(--primary-green-color);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+a.sub-nav-link:hover {
+    font-weight: 700;
+}
+
+.icons-container {
+    grid-gap: 30px;
+}
+
+.footer-container {
+    background-color: var(--background-gray-color);
+}
+
+.footer-title {
+    color: black;
+    font-size: 18px;
+    padding-bottom: 12px;
+}
+
+.directory-container {
+    text-align: left;
+    width: 100%;
+}
+
+.footer-directory-items {
+    row-gap: 4px;
+}
+
+.footer-directory-link a:hover {
+    text-decoration: underline;
+}
+
+.accordion .footer-title {
+    padding: 1rem 0;
+}
+
+.accordion-section {
+    border-bottom: 1px solid var(--border-gray-color);
+}
+
+.accordion .footer-directory-items {
+    margin-bottom: 1rem;
+}
+
+.text-align {
+    text-align: left;
+}
+
+.nav-section {
+    background-color: var(--background-gray-color);
+}
+
+.hamburger-container {
+    position: fixed;
+    width: 100%;
+    z-index: 100000;
+}
+
+.nav-header {
+    padding: 2rem 1.5rem;
+    background-color: #fff;
+}
+
+.selected-nav-heading {
+    padding-top: 1rem;
+    border-bottom: 1px solid var(--border-gray-color);
+    margin: 0 1.5rem 1rem 1.5rem;
+}
+
+.selected-nav-heading p::before {
+    content: url(../assets/chevron-right.svg);
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: -5px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.nav-items {
+    padding: 1rem 3rem;
+}
+
+.nav-header-logo {
+    max-height: 30px;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+/*HL_HeroBanner*/
+.background-container {
+    max-height: 356px;
+}
+
+.hero-banner-background {
+    position: absolute;
+    z-index: -1;
+    max-height: 356px;
+    width: 100%;
+}
+
+.hero-banner {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0px, 1fr));
+    column-gap: 1rem;
+    padding: 0 6%;
+    padding-top: 198px;
+    padding-bottom: 40px;
+}
+
+.person-picture-container {
+    grid-column: span 12 / span 12;
+}
+
+.person-picture {
+    height: 218px;
+    border-radius: 1rem;
+    object-fit: cover;
+    width: auto;
+}
+
+.person-details {
+    grid-column: span 12 / span 12;
+}
+
+.person-intro {
+    font-family: sans-serif;
+    font-size: 38px;
+    margin-top: 43px;
+    margin-bottom: 2rem;
+}
+
+.person-contact-container {
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0px, 1fr));
+    column-gap: 1rem;
+    padding-top: 1rem;
+}
+
+.person-contact {
+    grid-column: span 7 / span 7;
+}
+
+.person-profession {
+    font-weight: 700;
+}
+
+.person-profession span {
+    padding-left: 4px;
+}
+
+.person-moto {
+    color: rgb(116 115 110);
+}
+
+.action-button {
+    border: 0;
+    background-color: var(--primary-green-color);
+    color: white;
+    border-radius: 4.625rem;
+    font-size: 18px;
+}
+
+.button-icon {
+    content: url(../assets/button-icon.svg);
+}
+
+.person-location {
+    grid-column: span 7 / span 7;
+}
+
+.city {
+    padding-top: 2rem;
+}
+
+.media {
+    display: flex;
+}
+
+.media div {
+    padding-right: 1.5rem;
+}
+
+/*HL_HeroBanner*/
+
+@media (min-width: 641px) {
+    .nav-header {
+        padding: 2rem 3rem 2rem 3.5rem;
+    }
+
+    .nav-items {
+        padding: 1rem 3rem 1rem 5rem;
+    }
+
+    .selected-nav-heading {
+        margin: 0 3rem 1rem 3.5rem;
+    }
+
+    .hero-banner {
+        padding-top: 140px;
+    }
+
+    .person-picture {
+        height: 361px;
+    }
+
+    .person-details {
+        grid-column: span 12 / span 12;
+    }
+
+    .person-intro {
+        margin-top: 2rem;
+    }
+
+    .person-contact {
+        grid-column: span 4 / span 4;
+    }
+
+    .person-location {
+        grid-column-start: 6;
+        grid-column: span 2 / span 2;
+    }
+}
+
+@media (min-width: 1024px) {
+    .header-logo {
+        max-height: 40px;
+    }
+
+    .header-container,
+    .footer-container {
+        padding-right: 6.66%;
+        padding-left: 6.66%;
+    }
+
+    .d-xl-block.navitems-container {
+        display: flex !important;
+    }
+
+    .hero-banner-background {
+        max-height: 597px;
+    }
+
+    .directory-container {
+        text-align: left;
+        width: calc(86.667vw - 360px);
+    }
+
+    .hero-banner {
+        padding-top: 190px;
+    }
+
+    .person-picture-container {
+        grid-column: span 4 / span 4;
+        --tw-translate-y: calc(80px * -1);
+        transform: translateX(var(--tw-translate-x, 0)) translateY(var(--tw-translate-y, 0)) rotate(var(--tw-rotate, 0)) skewX(var(--tw-skew-x, 0)) skewY(var(--tw-skew-y, 0)) scaleX(var(--tw-scale-x, 1)) scaleY(var(--tw-scale-y, 1));
+    }
+
+    .person-picture {
+        height: 539px;
+        width: 100%;
+    }
+
+    .person-details {
+        grid-column-start: 6 !important;
+        grid-column: span 7 / span 7;
+        --tw-translate-y: calc(20px * -1);
+        transform: translateX(var(--tw-translate-x, 0)) translateY(var(--tw-translate-y, 0)) rotate(var(--tw-rotate, 0)) skewX(var(--tw-skew-x, 0)) skewY(var(--tw-skew-y, 0)) scaleX(var(--tw-scale-x, 1)) scaleY(var(--tw-scale-y, 1));
+    }
+
+    .person-intro {
+        color: white;
+        font-size: 50px;
+        min-height: 20.5rem;
+        margin-bottom: 104px;
+        margin-top: 0px;
+    }
+
+    .person-contact {
+        grid-column: span 4 / span 4;
+    }
+
+    .person-location {
+        grid-column-start: 6;
+        grid-column: span 2 / span 2;
+    }
+}
+
+.background-white {
+    background-color: #fff;
+}
