@@ -7,15 +7,15 @@ import Filters from '../components/mb/Filters.tsx';
 
 interface filterProps {
     name: string
-    values : {
+    values: {
         name: string,
         value: string,
-        selected ?: boolean,
-        image ?: string
+        selected?: boolean,
+        image?: string
     }[]
 }
 
-const filters : filterProps[] = [
+const filters: filterProps[] = [
     {
         name: 'Category',
         values: [
@@ -37,20 +37,20 @@ const filters : filterProps[] = [
                 value: 'bobsleigh'
             },
             {
-                name: 'Alpine Skiing',
-                value: 'alpine-skiing'
+                name: 'Alpine Skiing1',
+                value: 'alpine-skiing1'
             },
             {
-                name: 'Bobsleigh',
-                value: 'bobsleigh'
+                name: 'Bobsleigh1',
+                value: 'bobsleigh1'
             },
             {
-                name: 'Alpine Skiing',
-                value: 'alpine-skiing'
+                name: 'Alpine Skiing2',
+                value: 'alpine-skiing2'
             },
             {
-                name: 'Bobsleigh',
-                value: 'bobsleigh'
+                name: 'Bobsleigh2',
+                value: 'bobsleigh2'
             }
         ]
     },
@@ -92,7 +92,7 @@ const filters : filterProps[] = [
     },
     {
         name: 'NOC',
-        values : [
+        values: [
             {
                 name: 'India',
                 value: 'IN',

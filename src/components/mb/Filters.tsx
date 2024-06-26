@@ -1,7 +1,6 @@
 import React from 'react'
 import { TextIndent } from '@phosphor-icons/react'
-import CheckBoxFilter from './CheckBoxFilter.tsx'
-import RadioFilter from './RadioFilter.tsx'
+import CheckBoxFilter from './GenericCheckBox.tsx'
 
 
 interface filterProps {
@@ -10,13 +9,17 @@ interface filterProps {
         values: {
             name: string,
             value: string,
-            selected ?: boolean
+            selected?: boolean
         }[]
     }[]
     className: string
 }
 
 const Filters = ({ newsFilters, className }: filterProps) => {
+    const handleCheckboxChange = (event) => {
+        console.log('event ', event);
+        console.log('newsFilters ', newsFilters);
+    }
     return (
         <div className={`filters-container border-l ${className}`}>
             <div className='flex py-2 px-2 border-b items-center'>
@@ -25,12 +28,7 @@ const Filters = ({ newsFilters, className }: filterProps) => {
             </div>
             <div className='px-2'>
                 {newsFilters.map((filter) => {
-                    return <CheckBoxFilter filterData={filter} />
-                })}
-            </div>
-            <div className='px-2'>
-                {newsFilters.map((filter) => {
-                    return <RadioFilter filterData={filter} />
+                    return <CheckBoxFilter filterData={filter} handleChange={event => handleCheckboxChange(event)} />
                 })}
             </div>
         </div>
