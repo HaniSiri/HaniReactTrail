@@ -1,6 +1,6 @@
 import { CaretDown, CaretUp } from '@phosphor-icons/react'
 import React, { useState } from 'react'
-import SearchBar from './SearchBar.tsx';
+import SearchBar from '../SearchBar.tsx';
 
 interface CheckBoxProps {
     checkboxData: {

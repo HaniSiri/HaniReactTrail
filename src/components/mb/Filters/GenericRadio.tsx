@@ -1,25 +1,14 @@
 import { CaretDown, CaretUp } from '@phosphor-icons/react'
-import React, { useState } from 'react'
+import { useState } from 'react'
+import { filterInputData } from '../../../__types__/Filter';
 
-interface RadioProps {
-    filterData: {
-        name: string
-        values: {
-            name: string,
-            value: string,
-            selected?: boolean,
-            image?: string
-        }[]
-    }
-    handleChange: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void
-}
-const GenericRadio = ({ filterData, handleChange }: RadioProps) => {
+const GenericRadio = ({ filter, handleChange }: filterInputData) => {
     const [showAll, setshowAll] = useState(false);
     return (
         <div className='pt-2'>
-            <div className='text-lg font-bold min-h-12 content-center'>{filterData.name}</div>
+            <div className='text-lg font-bold min-h-12 content-center'>{filter.name}</div>
             <div className=''>
-                {filterData.values.map((val, index) => {
+                {filter.values.map((val, index) => {
                     return (
                         <div className={`min-h-12 flex items-center ${!showAll && index > 4 ? 'hidden' : ''}`}>
                             <input type="radio"
@@ -36,7 +25,7 @@ const GenericRadio = ({ filterData, handleChange }: RadioProps) => {
                     )
                 })}
             </div>
-            {filterData.values.length > 5 && (
+            {filter.values.length > 5 && (
                 <div className={`flex justify-center items-center min-h-12 font-bold text-sm text-pisa-blue-500`}>
                     <button className='flex items-center ml-2' onClick={() => setshowAll(!showAll)}>
                         {!showAll

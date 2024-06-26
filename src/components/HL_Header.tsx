@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-pascal-case */
-import React from 'react';
+
 import { Link } from "react-router-dom";
 import herbalLifeIcon from "../assets/hl-header-logo.png";
 import search from "../assets/search.svg";

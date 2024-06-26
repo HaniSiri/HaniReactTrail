@@ -4,18 +4,8 @@ import SearchBar from '../components/mb/SearchBar.tsx';
 import ToggleSwitch from '../components/mb/ToggleSwitch.tsx';
 import GenericIconButton from '../components/mb/GenericIconButton.tsx'
 import "../global.css";
-import Filters from '../components/mb/Filters.tsx';
+import Filters from '../components/mb/Filters/index.tsx';
 
-interface filterProps {
-    name: string
-    eanbleSearch?: boolean,
-    values: {
-        name: string,
-        value: string,
-        selected?: boolean,
-        image?: string
-    }[]
-}
 
 const filters: filterProps[] = [
     {
