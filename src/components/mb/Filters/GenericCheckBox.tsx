@@ -17,13 +17,19 @@ interface CheckBoxProps {
 }
 
 const GenericCheckBox = ({ checkboxData, handleChange }: CheckBoxProps) => {
-    const [showAll, setshowAll] = useState(false)
+    const [showAll, setshowAll] = useState(false);
+    const [displayValues, setdisplayValues] = useState(checkboxData.values);
+    const updateDispayValues = (q: string) => {
+        setdisplayValues(checkboxData.values.filter((val) => {
+            return val.name.toLowerCase().indexOf(q.toLowerCase())>=0;
+        }))
+    }
     return (
         <div className='pt-2'>
             <div className='text-lg font-bold min-h-12 content-center'>{checkboxData.name}</div>
-            {checkboxData.eanbleSearch && <SearchBar />}
+            {checkboxData.eanbleSearch && <SearchBar searchCallback={updateDispayValues} />}
             <div className=''>
-                {checkboxData.values.map((val, index) => {
+                {displayValues.map((val, index) => {
                     return (
                         <div className={`min-h-12 flex items-center ${!showAll && index > 4 ? 'hidden' : ''}`}>
                             <input type="checkbox"
@@ -40,7 +46,7 @@ const GenericCheckBox = ({ checkboxData, handleChange }: CheckBoxProps) => {
                     )
                 })}
             </div>
-            {checkboxData.values.length > 5 && (
+            {displayValues.length > 5 && (
                 <div className={`flex justify-center items-center min-h-12 font-bold text-sm text-pisa-blue-500`}>
                     <button className='flex items-center ml-2' onClick={() => setshowAll(!showAll)}>
                         {!showAll

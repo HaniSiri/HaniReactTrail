@@ -1,13 +1,15 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { MagnifyingGlass } from '@phosphor-icons/react';
 
-const SearchBar = () => {
+interface SearchBarProps {
+    searchCallback ?: (q: string) => void
+}
 
-    const [query, setQuery] = useState("")
+const SearchBar = ({searchCallback} : SearchBarProps) => {
 
     function search(e) {
         e.preventDefault()
-        setQuery(e.target.value)
+        searchCallback && e.target.value && searchCallback(e.target.value);
     }
 
     return (
@@ -18,7 +20,7 @@ const SearchBar = () => {
                 className="w-full placeholder-gray-400 text-gray-900 pl-2"
                 placeholder="Search..."
                 onChange={search}
-                value={query} />
+                />
         </div>
     );
 };
