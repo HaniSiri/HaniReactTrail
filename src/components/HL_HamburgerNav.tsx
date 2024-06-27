@@ -1,4 +1,4 @@
-
+import React from 'react';
 import { Link } from "react-router-dom";
 import herbalLifeIcon from "../assets/hl-header-logo.png";
 import close from "../assets/close.svg";
