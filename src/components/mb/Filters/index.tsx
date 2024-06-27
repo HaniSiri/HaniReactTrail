@@ -22,7 +22,7 @@ const Filters = ({ newsFilters, className, setshowFilters }: filterProps) => {
         console.log('newsFilters ', newsFilters);
     }
     return (
-        <div className={`filters-container border-l sticky top-0 bg-white ${className}`}>
+        <div className={`filters-container h-full overflow-y-scroll border-l sticky top-0 bg-white ${className}`}>
             <div className='flex py-2 px-2 border-b items-center' onClick={() => setshowFilters(false)}>
                 <TextIndent size={24} color="#6e6e6e" weight='bold' />
                 <div className=' pl-2 text-xl font-bold '>Filters</div>

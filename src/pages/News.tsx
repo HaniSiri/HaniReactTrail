@@ -124,7 +124,7 @@ const News = () => {
                     )}
                 </div>
             </div>
-            {showFilters && <Filters className={'px-3 basis-3/12 hidden lg:block '} newsFilters={filters} setshowFilters={setshowFilters} />}
+            {showFilters && <Filters className={'px-3 basis-3/12 hidden lg:block'} newsFilters={filters} setshowFilters={setshowFilters} />}
         </div>
     </>
     )
